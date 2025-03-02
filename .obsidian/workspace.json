@@ -12,17 +12,10 @@
             "id": "967e5534ff287043",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             },
             "group": "cc8b3a087e1daf3f"
           }
@@ -39,7 +32,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +59,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             },
             "group": "cc8b3a087e1daf3f"
           }
@@ -220,6 +212,7 @@
   },
   "active": "d6b8bb1220c95086",
   "lastOpenFiles": [
+    "Saved/EditorPerProjectUserSettings6AB5D8964EC23D44F25BAD8B095DFD15.tmp",
     "Untitled.canvas",
     "Программирование/Полезные сайты.md",
     "Программирование/Полезные команды.md",
